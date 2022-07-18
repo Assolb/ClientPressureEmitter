@@ -1,0 +1,15 @@
+C:\Users\black\source\repos\ClientProgram\ClientProgram\bin\Debug\net6.0\ClientProgram.exe
+C:\Users\black\source\repos\ClientProgram\ClientProgram\bin\Debug\net6.0\ClientProgram.deps.json
+C:\Users\black\source\repos\ClientProgram\ClientProgram\bin\Debug\net6.0\ClientProgram.runtimeconfig.json
+C:\Users\black\source\repos\ClientProgram\ClientProgram\bin\Debug\net6.0\ClientProgram.dll
+C:\Users\black\source\repos\ClientProgram\ClientProgram\bin\Debug\net6.0\ref\ClientProgram.dll
+C:\Users\black\source\repos\ClientProgram\ClientProgram\bin\Debug\net6.0\ClientProgram.pdb
+C:\Users\black\source\repos\ClientProgram\ClientProgram\obj\Debug\net6.0\ClientProgram.csproj.AssemblyReference.cache
+C:\Users\black\source\repos\ClientProgram\ClientProgram\obj\Debug\net6.0\ClientProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\source\repos\ClientProgram\ClientProgram\obj\Debug\net6.0\ClientProgram.AssemblyInfoInputs.cache
+C:\Users\black\source\repos\ClientProgram\ClientProgram\obj\Debug\net6.0\ClientProgram.AssemblyInfo.cs
+C:\Users\black\source\repos\ClientProgram\ClientProgram\obj\Debug\net6.0\ClientProgram.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\ClientProgram\ClientProgram\obj\Debug\net6.0\ClientProgram.dll
+C:\Users\black\source\repos\ClientProgram\ClientProgram\obj\Debug\net6.0\ref\ClientProgram.dll
+C:\Users\black\source\repos\ClientProgram\ClientProgram\obj\Debug\net6.0\ClientProgram.pdb
+C:\Users\black\source\repos\ClientProgram\ClientProgram\obj\Debug\net6.0\ClientProgram.genruntimeconfig.cache
